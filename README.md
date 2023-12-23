@@ -21,10 +21,12 @@ this is the link 👉 https://gemini-6bbd2.web.app
 
 First you need Flutter setup in your system.
 Just copy the lib folder from the repo and just add these dependencies in pubspec.yaml file
-  http:
-  flutter_spinkit:
-  google_fonts:
-  velocity_x:
+-  http:
+-  flutter_spinkit:
+-  google_fonts:
+-  velocity_x:
+
+Note: Press f1, add dependencies, so that you get latest versions of these dependencies
 
 That's it!
 You are ready to go ✔️
