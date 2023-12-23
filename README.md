@@ -4,7 +4,7 @@
 
 I have created a Gemini A.I. chat bot that works it both Android and IOS it is made using Flutter and Gemini API
 
-![Screenshot 2023-12-23 164721](https://github.com/sandeshkolte/Gemini-AI-chat-bot-app/assets/127025956/0a27a802-746f-4e44-bf80-3c5c31c3dab5)
+![Screenshot 2023-12-23 165007](https://github.com/sandeshkolte/Gemini-AI-chat-bot-app/assets/127025956/f627e8c6-3de1-4d9a-9033-3fed66b8d27d)
 
 
 # Tech stacks-
